@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<temas>
+    <tema
+        nome="leao"
+        titulo="white"
+        fundo="#C7AF7F"
+        conteudo="#DEB772"/>
+    <tema
+        nome="tubarao"
+        titulo="white"
+        fundo="#0B7F8E"
+        conteudo="#1A94AB"/>
+    <tema
+        nome="camaro"
+        titulo="black"
+        fundo="#F2A902"
+        conteudo="#FFFB38"/>
+</temas>
