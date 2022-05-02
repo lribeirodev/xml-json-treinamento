@@ -1,23 +1,9 @@
 [
     {
-        "imagem" : "cleancode.jpg",
-        "nome" : "Código limpo: Habilidades práticas do Agile Software",
-        "autor" : "Robert C. Martin",
-        "ano" : 2009,
-        "valor" : 150.25
-    },
-    {
-        "imagem" : "python.jpg",
-        "nome" : "Data Science Do Zero: Noções Fundamentais com Python",
-        "autor" : "Joel Grus",
-        "ano" : 2021,
-        "valor" : 220.75
-    },
-    {
-        "imagem" : "java.jpg",
-        "nome" : "Java®: Como Programar",
-        "autor" : "P.J. Deitel",
-        "ano" : 2016,
-        "valor" : 400.45
+        "imagem" : "",
+        "nome" : "",
+        "autor" : "",
+        "ano" : 0,
+        "valor" : 0.0
     }
 ]
