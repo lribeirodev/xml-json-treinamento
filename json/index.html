@@ -2,23 +2,25 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>XML TREINAMENTO</title>
+    <title>JSON TREINAMENTO</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
     
     <div class="formulario">
-        <label for="componentFile">API XML: ./</label>
+        <label for="componentFile">API JSON: ./</label>
         <div class="inner-content-formulario">
             <input id="componentFile" type="text">
             <button onclick="gerarComponent();">REQUEST</button>
         </div>
     </div>
 
-    <div id="content">
-        <!-- CONTEUDO DINÂMICO -->
+    <!-- CONTEUDO DINAMICO -->
+    <div>
+        <ul id="content">
+        </ul>
     </div>
 
-    <script src="/xml/script.js"></script>
+    <script src="/json/script.js"></script>
 </body>
 </html>

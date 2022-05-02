@@ -1,5 +1,5 @@
 const MSGERROR = 'Component não encontrado';
-
+const PATH = "/xml/";
 temas = [];
 
 function initApp() {
@@ -58,7 +58,7 @@ function gerarComponent() {
             for (let i = 0; i < doc.length; i++) {
 
                 item.tema = doc.item(i).getElementsByTagName('tema')[0].innerHTML;
-                item.imagem = "img/" + doc.item(i).getElementsByTagName('imagem')[0].innerHTML.concat('.jpg');
+                item.imagem = PATH + "img/" + doc.item(i).getElementsByTagName('imagem')[0].innerHTML;
                 item.nome = doc.item(i).getElementsByTagName('nome')[0].innerHTML;
                 item.descricao = doc.item(i).getElementsByTagName('descricao')[0].innerHTML;
 
