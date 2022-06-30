@@ -1,6 +1,8 @@
 # TREINAMENTO XML/JSON
 #### Autor: Lucas Ribeiro
 
+:sparkles:
+
 Este treinamento foi criado para o evento da FIEC, neste pequeno projeto temos duas apis criadas para trabalhar com estruturas de dados XML e JSON.
 
 # XML
